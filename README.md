@@ -1,6 +1,6 @@
 # carRental
 
-这时一个采用SpringMVC架构的租车平台网站
+这是一个采用SpringMVC架构的租车平台网站
 
 首页：
 ![Alt text](https://github.com/LxdAlpha/carRental/raw/master/image/1.png)
