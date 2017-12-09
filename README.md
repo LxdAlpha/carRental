@@ -1,2 +1,2 @@
 # carRental
-![image](https://github.com/LxdAlpha/carRental/carRental/image/1.png )
+![image](http://github.com/LxdAlpha/carRental/readme_add_pic/raw/master/image/1.png )
