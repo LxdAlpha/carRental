@@ -1,0 +1,438 @@
+.panel.panel-primary{
+	border-radius: 0;
+}
+.panel-body{
+
+}
+#firstTitle{
+	background-color: #DDDDDD;
+	padding-left:160px;
+	padding-top:10px;
+}
+#time{
+	position:absolute;;
+}
+#threeUrl{
+	margin-top: -8px;
+	margin-left:800px;
+	margin-bottom: 20px;
+}
+#secondImage{
+	margin-top: -20px;
+	margin-left: -300px;
+}
+#thirdTitle{
+	background-color: #DDDDDD;
+}
+.nav.nav-pills{
+	margin-left: 235px;
+}
+#cheXingZuJia{
+	width: 232px;
+	margin-left: 180px;
+	margin-top: 10px;
+	padding-left: 0;
+	padding-bottom: 0;
+	padding-right: 0;
+	padding-top: 0;
+}
+#cheXingBiaoti{
+	padding-left: 0;
+	padding-bottom: 0;
+	padding-right: 0;
+	padding-top: 0;
+}
+#cheXingXuanXiang{
+	padding-left: 0;
+	padding-bottom: 0;
+	padding-right: 0;
+	padding-top: 0;
+}
+#cheXing{
+	padding-left: 0;
+	padding-bottom: 0;
+	padding-right: 0;
+	padding-top: 0;
+	float: left;
+}
+#cheXing1,#cheXing2,#cheXing3,#cheXing4,#cheXing5,#cheXing6,#cheXing7{
+	padding-left: 0;
+	padding-bottom: 0;
+	padding-right: 0;
+	padding-top: 0;
+	margin-top: 5px;
+}
+#diYiCeng{
+	position: relative;
+}
+#tuiJianCheXing{
+	top: 0;
+	left: 420px;
+	position:absolute;
+}
+#tuiJianBiaoTi{
+	padding-left: 0;
+	padding-bottom: 0;
+	padding-right: 0;
+	padding-top: 0;
+}
+#qiCheXinxi{
+	position: relative;
+}
+.car1{
+	position: relative;
+	width: 360px;
+	height: 88px;
+}
+.name1{
+	position: absolute;
+	left: 146px;
+	top:2px;
+	font-weight:bold;
+	font-size:120%
+}
+.price1{
+	position: absolute;
+	left: 146px;
+	top:30px;
+	font-size:85%;
+	color:#AD0F0E;
+	font-weight:bold;
+}
+.danjia1{
+	position: absolute;
+	top:30px;
+	left: 290px;
+	font-size:85%;
+}
+.jieshao1{
+	position: absolute;
+	top:60px;
+	left: 146px;
+	font-size: 85%;
+}
+.td1{
+	padding-left: 0;
+	padding-bottom: 0;
+	padding-right: 0;
+	padding-top: 0;
+}
+#img2{
+	margin-left: 190px;
+}
+#zaiXianYuDing{
+	width: 252px;
+	margin-left: 190px;
+	margin-top: 10px;
+}
+#zaiXianYuDingTou{
+	padding-top: 0;
+	padding-left: 0;
+	padding-bottom: 0;
+	padding-right: 0;
+}
+#fuWuLeiXing{
+	font-size: 85%;
+	padding-top: 0;
+	padding-left: 0;
+	padding-bottom: 0;
+	padding-right: 0;
+}
+#fuWuLeiXingKuang{
+	padding-top: 0;
+	padding-left: 0;
+	padding-bottom: 0;
+	padding-right: 0;
+}
+#service{
+	width:100px;
+	height:200px;
+}
+#OnlineBooking1{
+	width:252px;
+	margin-left: 182px;
+	margin-top: 10px;
+	display:inline-block;
+}
+#OnlineBooking2{
+	padding-top: 0;
+	padding-left: 0;
+	padding-bottom: 0;
+	padding-right: 0;
+}
+.OnlineBooking3{
+	width:80px;
+	text-align: right;
+	font-size: 85%;
+}
+.OnlineBooking4{
+	width:90px;
+	margin-left: 3px;
+	padding-top: 0;
+	padding-left: 0;
+	padding-bottom: 0;
+	padding-right: 0;
+}
+.OnlineBooking5{
+	margin-left: 3px;
+}
+#OnlineBooking6{
+	margin-left: 55px;
+}
+#serviceProject1{
+	width:735px;
+	display: inline-block;
+	margin-left: 27px;
+}
+#serviceProject2{
+	padding-top: 0;
+	padding-left: 0;
+	padding-bottom: 0;
+	padding-right: 0;
+}
+.serviceProject3{
+	padding-top: 0;
+	padding-left: 0;
+	padding-bottom: 0;
+	padding-right: 0;
+	width:350px
+}
+.serviceProject4{
+	font-size: 100%;
+	font-weight: bold;
+}
+.serviceProject5{
+	font-size: 80%;
+	width:230px;
+}
+.serviceProject6{
+	top:20px;
+	left: 230px;
+	position: absolute;
+}
+#contactUs1{
+	width:255px;
+	padding-left: 0;
+	padding-top: 0;
+	padding-right: 0;
+	padding-bottom: 0;
+	margin-left: 183px;
+	margin-top: -589px;
+	display: inline-block;
+}
+#contactUs2{
+	padding-left: 0;
+	padding-top: 0;
+	padding-right: 0;
+	padding-bottom: 0;
+}
+#contactUs3{
+	color: crimson;
+	font-size: 100%;
+}
+.contactUs4{
+	padding-left: 0;
+	padding-top: 0;
+	padding-right: 0;
+	padding-bottom: 0;
+}
+.contactUs5{
+	font-size: 90%;
+}
+#aboutUs1{
+	width: 440px;
+	display: inline-block;
+	margin-left: 10px;
+}
+#aboutUs2{
+	padding-left: 0;
+	padding-top: 0;
+	padding-right: 0;
+	padding-bottom: 0;
+}
+#aboutUs3{
+	margin-left: 10px;
+	float:left;
+}
+#aboutUs4{
+	font-size: 80%;
+}
+#Honor1{
+	display: inline-block;
+	margin-top: -346px;
+	margin-left: 10px;
+}
+#Honor2{
+	padding-left: 0;
+	padding-top: 0;
+	padding-right: 0;
+	padding-bottom: 0;
+}
+#scCarousel{
+	padding-left: 20px;
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-bottom: 36px;
+}
+#cars1{
+	width:255px;
+	display: inline-block;
+	margin-top: -355px;
+	margin-left: 183px;
+}
+#cars2{
+	padding-left: 0;
+	padding-top: 0;
+	padding-right: 0;
+	padding-bottom: 0;
+}
+.cars3{
+	height: 52px;
+	margin-left: -2px;
+	position: relative;
+}
+.cars4{
+	margin-top: -30px;
+	margin-left: 43px;
+}
+#focusAttention1{
+	display: inline-block;
+	margin-top: -620px;
+	margin-left: 10px;
+}
+#focusAttention2{
+	padding-left: 0;
+	padding-top: 0;
+	padding-right: 0;
+	padding-bottom: 0;
+}
+.focusAttention3{
+	font-size: 85%;
+
+}
+.focusAttention4{
+	font-size: 85%;
+	text-align: left;
+}
+#industryNews1{
+	width: 284px;
+	display: inline-block;
+	margin-top: -620px;
+	margin-left: 9px;
+}
+#industryNews2{
+	padding-left: 0;
+	padding-top: 0;
+	padding-right: 0;
+	padding-bottom: 0;
+}
+.industryNews3{
+	font-size: 85%;
+}
+#industryNews4{
+	table-layout: fixed;
+	width: inherit;
+	/*这条属性就是让table的内部布局固定大小。这个时候就用width属性调节td的长度。*/
+	/*先固定表格的宽度，再固定第一列的宽度*/
+}
+#industryNews4 td{
+	white-space:nowrap;
+	overflow:hidden;
+	text-overflow: ellipsis;
+	/*
+	white-space:nowrap;规定段落中的文本不进行换行
+	overflow:hidden;关闭滚动条
+	text-overflow: ellipsis;溢出的文字显示为省略号
+	*/
+}
+#last1{
+	margin-top: -260px;
+}
+#last2{
+	text-align:center;
+}
+#backImage1{
+	margin-left: -300px;
+}
+#cheXingZuJia_1{
+	width: 232px;
+	margin-left: 180px;
+	margin-top: 10px;
+	padding-left: 0;
+	padding-bottom: 0;
+	padding-right: 0;
+	padding-top: 0;
+	display: inline-block;
+}
+#companyInformation1{
+	width:232px;
+	margin-left: 180px;
+	padding-left: 15px;
+	margin-top: -700px;
+}
+#companyInformation2{
+	font-size: 120%;
+	color: #AF740C;
+}
+#merchantsJoin1{
+	display: inline-block;
+	margin-left: 5px;
+	margin-top: -1120px;
+	height: 722px;
+	width:760px;
+}
+#merchantsJoin2{
+	padding-left: 0;
+	padding-top: 0;
+	padding-right: 0;
+	padding-bottom: 0;
+}
+#merchantsJoin3{
+	padding-left: 52px;
+}
+.merchantsJoin4{
+	margin-top: 12px;
+}
+.merchantsJoin5{
+	padding-top: 9px;
+}
+#autoShow3{
+	padding-left: 20px;
+	padding-top: 10px;
+}
+#autoShow1{
+	display: inline-block;
+	margin-left: 5px;
+	margin-top: -1120px;
+	height: 722px;
+	width:760px;
+	height: 830px;
+}
+#test_1{
+	width: 232px;
+	margin-top: 10px;
+	padding-left: 0;
+	padding-bottom: 0;
+	padding-right: 0;
+	padding-top: 0;
+}
+#test_2{
+	width:232px;
+	padding-left: 15px;
+}
+#test_3{
+	margin-left: 5px;
+	width:760px;
+	height: 860px;
+	margin-top: 10px;
+}
+.autoShow4{
+	width: 350px; height: 120px; float: left; margin-left: 6px; margin-top: 8px;
+}
+.autoShow5{
+	float: left;
+}
+.autoShow6{
+	float:right;   margin-right:25px; margin-top:10px;
+}
+
