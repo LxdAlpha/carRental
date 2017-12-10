@@ -1,4 +1,4 @@
-# carRental
+# carRental 租车平台
 
 这是一个采用SpringMVC架构的租车平台网站
 
